@@ -1,0 +1,26 @@
+{
+    "studentList" : [
+        {
+            "id" : 1,
+            "name" : "ipsum",
+            "fees" : 0,
+            "attendance" : 10,
+            "group" : "morning"
+        },
+        {
+            "id" : 2,
+            "name" : "Testing",
+            "fees" : -200,
+            "group" : "morning",
+            "attendance" : 12
+        },
+        {
+            "id" : 3,
+            "name" : "Test 3",
+            "fees" : 200,
+            "group" : "evening",
+            "attendance" : 12
+        }
+
+    ]
+}
